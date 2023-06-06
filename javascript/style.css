@@ -1,0 +1,24 @@
+.massege{
+    background: red;
+    width: 650px;
+    height: 450px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    border-radius: 20px;
+}
+body{
+    text-align: center;
+    margin: 200px 0 0 500px;
+    width: 1200;
+    height: 1200;
+    background: rgb(201, 182, 182);
+}
+button{
+    border-radius: 5px;
+}
+
+button:hover{
+    background: rgb(125, 81, 227);
+    color: aliceblue;
+}
